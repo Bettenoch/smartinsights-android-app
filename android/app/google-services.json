@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "981825704261",
+    "project_id": "vertex-ai-app-b6187",
+    "storage_bucket": "vertex-ai-app-b6187.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981825704261:android:ca469af17dac433680ee2c",
+        "android_client_info": {
+          "package_name": "com.example.flutter_vertex_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq24ag77xqfyOeA14i_VPaRaHrRVRX-aA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
